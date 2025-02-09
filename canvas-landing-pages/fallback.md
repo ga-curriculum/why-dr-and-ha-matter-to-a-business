@@ -1,27 +1,18 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Why DR and HA Matter</span>
 </h1>
 
-tktk Add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
+## About
+
+By the end of this module, students will be able to understand the core concepts of Disaster Recovery and High Availability, assess the risks of neglecting these strategies, and discuss the benefits and challenges of implementing them within a business context.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](../setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](../concepts/README.md)                    | -- | tktk Skills covered.                |
-| [tktk Microlesson Name](../microlesson-01/README.md) | -- | tktk Skills covered.                |
-| **Total content**                                    | -- |                                     |
-
-## Level Up content
-
-| Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [tktk Microlesson Name](../microlesson-02/README.md) | -- | tktk Skills covered. |
-| **Total Level Up content**                           | -- |                      |
-
-## References
-
-📖 [Reference Materials](../references/README.md)
+| [What are DR and HA?](../what-are-dr-and-ha/README.md)                    | 15 min | Define DR and HA and understand when each is required.               |
+| [The Risks of Ignoring DR and HA](../the-risks-of-ignoring-dr-and-ha/README.md) | 15 min | Learn the risks of not having HA and DR implemented.                |
+| [Benefits and Challenges](../benefits-and-challenges/README.md) | 15 min | Be able to discuss the key benefits and challenges a business faces by implementing DR and HA plans,                |
+| **Total content**                                   | 45 min |                                     |
