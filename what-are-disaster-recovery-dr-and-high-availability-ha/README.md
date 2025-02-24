@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Why DR and HA Matter</span>
+  <span class="headline">Why DR and HA Matter to a Business</span>
   <span class="subhead">What are Disaster Recovery (DR) and High Availability (HA)?</span>
 </h1>
 

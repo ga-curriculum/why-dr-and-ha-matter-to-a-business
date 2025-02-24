@@ -4,8 +4,8 @@
     "name": "modular-curriculum-all-courses"
   },
   "repo": {
-    "friendlyName": "Why DR and HA Matter",
-    "name": "why-dr-and-ha-matter",
+    "friendlyName": "Why DR and HA Matter to a Business",
+    "name": "why-dr-and-ha-matter-to-a-business",
     "type": "Lesson",
     "about": "",
     "starterCode": "",
@@ -20,8 +20,8 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "What are DR and HA?",
-          "dirName": "what-are-dr-and-ha",
+          "friendlyName": "What are Disaster Recovery (DR) and High Availability (HA)?",
+          "dirName": "what-are-disaster-recovery-dr-and-high-availability-ha",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -40,8 +40,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Benefits and Challenges",
-          "dirName": "benefits-and-challenges",
+          "friendlyName": "Implementing DR and HA",
+          "dirName": "implementing-dr-and-ha",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -79,8 +79,8 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "What are DR and HA?",
-          "dirName": "what-are-dr-and-ha",
+          "friendlyName": "What are Disaster Recovery (DR) and High Availability (HA)?",
+          "dirName": "what-are-disaster-recovery-dr-and-high-availability-ha",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -99,8 +99,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Benefits and Challenges",
-          "dirName": "benefits-and-challenges",
+          "friendlyName": "Implementing DR and HA",
+          "dirName": "implementing-dr-and-ha",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

@@ -2,23 +2,23 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-whatAreDrAndHa = new Template.Microlesson {
-  friendlyName = "What are DR and HA?"
-  dirName = "what-are-dr-and-ha"
+whatAreDisasterRecoveryDrAndHighAvailabilityHa = new Template.Microlesson {
+  friendlyName = "What are Disaster Recovery (DR) and High Availability (HA)?"
+  dirName = "what-are-disaster-recovery-dr-and-high-availability-ha"
   type = "Content"
   videoUrl = ""
 }
 
-risksOfIgnoringDrAndHa = new Template.Microlesson {
+theRisksOfIgnoringDrAndHa = new Template.Microlesson {
   friendlyName = "The Risks of Ignoring DR and HA"
   dirName = "the-risks-of-ignoring-dr-and-ha"
   type = "Content"
   videoUrl = ""
 }
 
-benefitsAndChallenges = new Template.Microlesson {
-  friendlyName = "Benefits and Challenges"
-  dirName = "benefits-and-challenges"
+implementingDrAndHa = new Template.Microlesson {
+  friendlyName = "Implementing DR and HA"
+  dirName = "implementing-dr-and-ha"
   type = "Content"
   videoUrl = ""
 }

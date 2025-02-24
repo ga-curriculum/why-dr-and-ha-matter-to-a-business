@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Why DR and HA Matter</span>
+  <span class="headline">Why DR and HA Matter to a Business</span>
   <span class="subhead">The Risks of Ignoring DR and HA</span>
 </h1>
 

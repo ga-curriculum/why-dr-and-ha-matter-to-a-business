@@ -12,9 +12,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "Why DR and HA Matter"
+  friendlyName = "Why DR and HA Matter to a Business"
   // This must match the repo name as it appears on GitHub exactly
-  name = "why-dr-and-ha-matter"
+  name = "why-dr-and-ha-matter-to-a-business"
   type = "Lesson"
 }
 
@@ -24,9 +24,9 @@ courses {
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.whatAreDrAndHa
-      mls.risksOfIgnoringDrAndHa
-      mls.benefitsAndChallenges
+      mls.whatAreDisasterRecoveryDrAndHighAvailabilityHa
+      mls.theRisksOfIgnoringDrAndHa
+      mls.implementingDrAndHa
     }
   }
     new {
@@ -34,9 +34,9 @@ courses {
     name = "itb"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.whatAreDrAndHa
-      mls.risksOfIgnoringDrAndHa
-      mls.benefitsAndChallenges
+      mls.whatAreDisasterRecoveryDrAndHighAvailabilityHa
+      mls.theRisksOfIgnoringDrAndHa
+      mls.implementingDrAndHa
     }
   }
 }

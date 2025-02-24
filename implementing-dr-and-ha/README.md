@@ -1,6 +1,6 @@
 <h1>
-  <span class="headline">Why DR and HA Matter</span>
-  <span class="subhead">The Benefits and Challenges of Implementing DR and HA</span>
+  <span class="headline">Why DR and HA Matter to a Business</span>
+  <span class="subhead">Implementing DR and HA</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to discuss the key benefits a business gains from implementing DR and HA plans, as well as the common challenges and considerations involved in their implementation.
