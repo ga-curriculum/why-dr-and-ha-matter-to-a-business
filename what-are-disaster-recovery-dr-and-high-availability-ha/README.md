@@ -3,7 +3,7 @@
   <span class="subhead">What are Disaster Recovery (DR) and High Availability (HA)?</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to define Disaster Recovery and High Availability, differentiate between the two concepts, and explain their respective roles in ensuring business continuity.
+**Learning objective:** By the end of this lesson, students will be able to define disaster recovery (DR) and high availability (HA), differentiate between the two concepts, and explain their respective roles in ensuring business continuity.
 
 ## Anticipating the unexpected
 
